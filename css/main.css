@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
 @import "reset.css";
 @import "landing-page/header.css";
+@import "landing-page/top-jumbo.css";
 
 /*
 MY VERSION
@@ -17,3 +18,10 @@ B286F8 purple
 4C44C1 blue
 E6CDF9 light purple
 */
+
+.container{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 20px;
+	/* background: red; */
+}

@@ -78,6 +78,7 @@
     border-radius: 50px;
     font-size: 1rem;
     text-transform: uppercase;
+    cursor: pointer;
 }
 #top-jumbo .right-side{
     width: 60%;

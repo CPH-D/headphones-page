@@ -29,3 +29,8 @@ E6CDF9 light purple
     -webkit-box-shadow: 0px 17px 40px -10px rgba(0,0,0,0.3);
     -moz-box-shadow: 0px 17px 40px -10px rgba(0,0,0,0.3);
 }
+.box-shadow-center{
+	box-shadow: 0px 0px 65px 13px rgba(100,100,100,0.2);
+    -webkit-box-shadow: 0px 0px 65px 13px rgba(100,100,100,0.2);
+    -moz-box-shadow: 0px 0px 65px 13px rgba(100,100,100,0.2);
+}

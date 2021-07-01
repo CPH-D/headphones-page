@@ -10,7 +10,10 @@
     display: table;
     clear: both;
 }
-
+#top-jumbo header .container-fluid .menu a{
+    margin-left: 30px;
+    font-weight: 700;
+}
 #top-jumbo .left-side{
     width: 40%;
     display: inline-block;
